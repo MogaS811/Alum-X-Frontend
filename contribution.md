@@ -39,6 +39,7 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 - Hasan Ravda (@hasanravda)
 - Ayush Kumar Rai (@ayu-yishu13)
 - Mohan Kumar (@aricthecoder)
+- Sohini Sarmin (@2a04ish)
 - Lakshmish (@Coldesy)
 - Rajan Patil (@RajanPatil1904)
 - Apoorv Mittal (@Apoorv012)
